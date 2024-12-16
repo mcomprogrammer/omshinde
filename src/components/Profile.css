@@ -1,0 +1,18 @@
+.profile-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.logout-button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}
